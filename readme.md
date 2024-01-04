@@ -1,4 +1,4 @@
-<img src="https://github.com/HelixGaurd/Readme/assets/97402139/dc80b6ba-8768-45cb-9e92-9b4275c6236e" alt="banner" width="100" height="200">
+<img src="https://github.com/HelixGaurd/Readme/assets/97402139/dc80b6ba-8768-45cb-9e92-9b4275c6236e" alt="banner" width="200" height="300">
 
 ## HelixGaurd
 
